@@ -19,4 +19,4 @@ python guessing_game.py
 Note
 The hiscore.txt file is used to store the high score. Make sure the file is present in the same directory as the Python script.
 Credits
-This guessing game was created by [Your Name].
+This guessing game was created by [Tamonash].
