@@ -1,4 +1,4 @@
-# guess_the_number
+# Guess_The_Number
 Guessing Game
 This is a simple number guessing game implemented in Python. The program generates a random number between 1 and 100, and the user tries to guess the correct number. The game provides feedback to the user, indicating whether the guessed number is higher or lower than the target number.
 
